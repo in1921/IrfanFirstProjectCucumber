@@ -22,7 +22,7 @@ public class Facebook extends base {
 		PageFactory.initElements(factory, this);
 	}
 	
-	
+	// this class is fine
 	
 	signupPom su = new signupPom();
 	GenderPom gp = new GenderPom();
