@@ -38,9 +38,6 @@ public void user_able_to_open_facebook_url() throws Throwable {
 	  //Assert.assertEquals(title, driver.getTitle());
 	  sAssert.assertThat(title).isEqualTo(driver.getTitle());
 	   
-       
-   
-   
 }
 //
 //@Then("^user able to write first name into the first name field$")
